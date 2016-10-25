@@ -7,6 +7,7 @@ public class HelloWorld {
     public static void main(String args[]) {
 
         System.out.println("Bacon and Eggs walks into a bar.");
+        System.out.println("The bartender says 'Hay! We don't serve breakfast here!'");
 
     }
 
